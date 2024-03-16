@@ -1,0 +1,7 @@
+fire
+torch
+numpy
+tqdm
+tensorflow
+sklearn
+transformers
